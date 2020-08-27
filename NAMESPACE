@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(dplyr,left_join)
+importFrom(tidyr, spread)
+importFrom(utils,read.csv)
+importFrom(stringr,str_to_title)
