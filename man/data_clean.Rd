@@ -4,8 +4,7 @@
 \description{
 Prepare cleaned data for phase2 analysis}
 \usage{
-data_clean(code.dict,Phase2LocalPatientClinicalCourse, Phase2LocalPatientObservations, Phase2LocalPatientSummary, nm.event, admission.date.setting){
-
+data_clean(code.dict,Phase2LocalPatientClinicalCourse, Phase2LocalPatientObservations, Phase2LocalPatientSummary, nm.event, admission.date.setting)
 }
 \arguments{
   \item{code.dict}{the code dictionary for lab loinc codes}
